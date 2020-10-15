@@ -440,4 +440,14 @@ info = {
         "DAS" : "/DYJetsToLL_Pt-650ToInf_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv6*/NANOAODSIM",
         "plot_group" : "dy_nlo_ptbinned"
     },
+    "DY_inclusive_0j_nlo": {
+        "file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201012_091934/000*/*.root",
+        "DAS" : "",
+        "plot_group" : "dy"
+    },
+    "DY_inclusive_012j_nlo": {
+        "file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201012_091837/000*/*.root",
+        "DAS" : "",
+        "plot_group" : "dy"
+    }
 }

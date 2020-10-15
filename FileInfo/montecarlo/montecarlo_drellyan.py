@@ -334,4 +334,16 @@ info = {
         "DAS Name" : "DYToLL_2J_13TeV-amcatnloFXFX-pythia8",
         "Notes" : ""
     },
+    "DY_inclusive_0j_nlo" : {
+        "cross_section" : 5749.359978,
+        "Source of cross section" : "gridpack",
+        "file_path": "/eos/home-c/choij/Samples/DYJetsToLL_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201012_091934",
+		"DAS Name" : ""
+    },
+    "DY_inclusive_012j_nlo" : {
+        "cross_section" : 10600.,
+        "Source of cross section" : "gridpack",
+        "file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201012_091837",
+		"DAS Name" : ""
+    },
 }
