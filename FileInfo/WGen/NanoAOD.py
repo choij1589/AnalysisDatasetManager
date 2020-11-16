@@ -216,4 +216,9 @@ info = {
         "plot_group" : "wpmunu_fewz",
         "DAS" : "",
     },
+	"wmass_minnlo" : {
+		"file_path" : "/eos/cms/store/cmst3/group/wmass/w-mass-13TeV/NanoGen/WplusJetsToMuNu_TuneCP5_13TeV-powhegMiNNLO-pythia8-photos/NanoGen/201029_125309/000*/*.root",
+		"plot_group" : "wlnu_nlo",
+		"DAS" : "",
+	},
 }

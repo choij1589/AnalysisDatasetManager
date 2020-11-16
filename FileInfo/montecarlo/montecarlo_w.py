@@ -218,6 +218,12 @@ info = {
         "Generator" : "Fixed order FEWZ",
         "Cards" : "",
     },
+	"wmass_minnlo" : {
+		"cross_section" : 1, # need modify
+		"DAS Name" : "",
+		"Generator" : "",
+		"Cards" : "",
+	},
 }
 
 ptbins = [0.0, 13.0, 26.0, 38.0, 50.0, 62.0, 75.0, 100.0]

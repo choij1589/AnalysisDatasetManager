@@ -455,13 +455,38 @@ info = {
         "plot_group" : "dy_nlo_ptbinned"
     },
     "DY_inclusive_0j_nlo": {
-        "file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201012_091934/000*/*.root",
+        "file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_0j_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201012_091934/000*/*.root",
         "DAS" : "",
         "plot_group" : "dy"
     },
     "DY_inclusive_012j_nlo": {
-        "file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201012_091837/000*/*.root",
+        "file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_012j_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201022_024511/000*/*.root",
         "DAS" : "",
         "plot_group" : "dy"
-    }
+    },
+	"DYm50_MiniToNano" : {
+        "file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer15wmLHEGS/201028_142627/000*/*.root",
+        "DAS" : "",
+        "plot_group": "dy"
+    },
+	"DYm50_cp5_GridToNano" : {
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_cp5_GridToNano/RunIIFall17LHEGS/201106_033117/000*/*.root",
+		"DAS" : "",
+		"plot_group": "dy_nlo"
+	},
+	"DYm50_cp5_GridToNano_Customize" : {
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_cp5_GridToNano_Customize/RunIIFall17LHEGS/201110_112325/000*/*.root",
+		"DAS" : "",
+		"plot_group" : "dy_nlo"
+	},
+	"DYm50_cp5_MiniToNano": {
+		"file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIFall17MiniAODv2/201109_013102/000*/*.root",
+		"DAS" : "",
+		"plot_group": "dy_nlo"
+	},
+	"DYm50_incl_012j_ewparams_cp5" : {
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_incl_012j_ewparams_cp5/RunIIFall17LHEGS/201107_024335/000*/*.root",
+		"DAS" : "",
+		"plot_group" : "dy_nlo"
+	}
 }

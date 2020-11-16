@@ -345,13 +345,43 @@ info = {
     "DY_inclusive_0j_nlo" : {
         "cross_section" : 5749.359978,
         "Source of cross section" : "gridpack",
-        "file_path": "/eos/home-c/choij/Samples/DYJetsToLL_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201012_091934",
+        "file_path"  : "/eos/home-c/choij/Samples/DYJetsToLL_0j_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201012_091934",
 		"DAS Name" : ""
     },
     "DY_inclusive_012j_nlo" : {
         "cross_section" : 10600.,
         "Source of cross section" : "gridpack",
-        "file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201012_091837",
+        "file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_012j_MG271_amcatnlo-pythia8/RunIISummer15wmLHEGS/201022_024511",
 		"DAS Name" : ""
     },
+	"DYm50_MiniToNaNo" : {
+		"cross_section" : 5765.4,
+		"Source of cross section" : "https://twiki.cern.ch/twiki/bin/viewauth/CMS/SummaryTable1G25ns#DY_Z",
+		"file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISummer15wmLHEGS/201028_142627/", 
+		"DAS Name" : ""
+	},
+	"DYm50_cp5_GridToNano" : {
+		"cross_section" : 5765.4,
+		"Source of cross section" : "https://twiki.cern.ch/twiki/bin/viewauth/CMS/SummaryTable1G25ns#DY_Z",
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_cp5_GridToNano/RunIIFall17LHEGS/201106_033117/",
+		"DAS Name" : ""
+	},
+	"DYm50_cp5_GridToNano_Customize": {
+		"cross_section:" : 5765.4,
+		"Source of cross section" : "https://twiki.cern.ch/twiki/bin/viewauth/CMS/SummaryTable1G25ns#DY_Z",
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_cp5_GridToNano_Customize/RunIIFall17LHEGS/201110_112325/",
+		"DAS Name" : ""
+	},
+	"DYm50_cp5_MiniToNano": {
+		"cross_section" : 5765.4,
+		"Source of cross section" : "https://twiki.cern.ch/twiki/bin/viewauth/CMS/SummaryTable1G25ns#DY_Z",
+		"file_path" : "/eos/home-c/choij/Samples/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIFall17MiniAODv2/201109_013102",
+		"DAS Name" : ""
+	},
+	"DYm50_incl_012j_ewparams_cp5": {
+		"cross_section" : 1.,
+		"Source of cross section" : "need update",
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_incl_012j_ewparams_cp5/RunIIFall17LHEGS/201107_024335/",
+		"DAS Name" : ""
+	}
 }
