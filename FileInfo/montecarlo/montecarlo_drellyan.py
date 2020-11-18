@@ -366,6 +366,30 @@ info = {
 		"file_path" : "/eos/home-c/choij/Samples/DYm50_cp5_GridToNano/RunIIFall17LHEGS/201106_033117/",
 		"DAS Name" : ""
 	},
+	"DYm50_0j_nlo_cp5_GridToNano" : {
+		"cross_section" : 5335,
+		# Correction factor to agree with inclusive x NNLO+NLO EW
+		#"kfactor" : 0.8946*.97,
+		#"kfactor" : 0.931284*.97,
+		"kfactor" : .97,
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_0j_nlo_cp5/RunIIFall17wmLHEGS/201117_123510/"
+	},
+	"DYm50_1j_nlo_cp5_GridToNano" : {
+		"cross_section" : 958,
+		# Correction factor to agree with inclusive x NNLO+NLO EW
+		#"kfactor" : 0.92742*.97,
+		#"kfactor" : 0.96100*.97,
+		"kfactor" : .97,
+		"file_path" : "eos/home-c/choij/Samples/DYm50_1j_nlo_cp5/RunIIFall17wmLHEGS/201117_124912/"
+	},
+	"DYm50_2j_nlo_cp5_GridToNano" : {
+		"cross_section" : 356,
+		# Correction factor to agree with inclusive x NNLO+NLO EW
+		#"kfactor" : 0.9265*.97,
+		#"kfactor" : 0.98935*.97,
+		"kfactor" : .97,
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_2j_nlo_cp5/RunIIFall17wmLHEGS/201117_122143/"
+	},
 	"DYm50_cp5_GridToNano_Customize": {
 		"cross_section:" : 5765.4,
 		"Source of cross section" : "https://twiki.cern.ch/twiki/bin/viewauth/CMS/SummaryTable1G25ns#DY_Z",

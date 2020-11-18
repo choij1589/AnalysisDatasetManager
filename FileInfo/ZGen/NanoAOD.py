@@ -474,6 +474,21 @@ info = {
 		"DAS" : "",
 		"plot_group": "dy_nlo"
 	},
+	"DYm50_0j_nlo_cp5_GridToNano" : {
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_0j_nlo_cp5/RunIIFall17wmLHEGS/201117_123510/000*/*.root",
+		"DAS" : "",
+		"plot_group" : "dy_nlo_jetbinned"
+	},
+	"DYm50_1j_nlo_cp5_GridToNano" : {
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_1j_nlo_cp5/RunIIFall17wmLHEGS/201117_124912/000*/*.root",
+		"DAS": "",
+		"plot_group" : "dy_nlo_jetbinned"
+	},
+	"DYm50_2j_nlo_cp5_GridToNano" : {
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_2j_nlo_cp5/RunIIFall17wmLHEGS/201117_122143/000*/*.root",
+		"DAS" : "",
+		"plot_group" : "dy_nlo_jetbinned"
+	},
 	"DYm50_cp5_GridToNano_Customize" : {
 		"file_path" : "/eos/home-c/choij/Samples/DYm50_cp5_GridToNano_Customize/RunIIFall17LHEGS/201110_112325/000*/*.root",
 		"DAS" : "",
