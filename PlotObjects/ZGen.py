@@ -165,6 +165,21 @@ info = {
             "SetMaximum" : 15000000
         }
     },
+	"nLeptons": {
+		"Initialize": {
+			"type": "TH1F",
+			"nbins": 10,
+			"xmin": 0,
+			"xmax": 10
+		},
+		"Attributes": {
+			"GetXaxis().SetTitle": "nl",
+			"GetYaxis().SetTitle": "Events",
+			"GetYaxis().SetTitleOffset": 1.2,
+			"SetMinimum" : 0,
+			"SetMaximum" : 150000000
+		}
+	},
    "ptj1": {  
         "Initialize": {  
             "type": "TH1D",
