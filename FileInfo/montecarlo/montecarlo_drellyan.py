@@ -407,5 +407,25 @@ info = {
 		"Source of cross section" : "need update",
 		"file_path" : "/eos/home-c/choij/Samples/DYm50_incl_012j_ewparams_cp5/RunIIFall17LHEGS/201107_024335/",
 		"DAS Name" : ""
-	}
+	},
+	"DYm50_0j_nlo_cuep5m1": {
+		"cross_section" : 4.751e+03,
+		"Source of cross section" : "fragment (20000 events)",
+		"file_path" : "/eos/home-c/choij/Samples/DYm50_0j_nlo_cuep5m1"
+	},
+	"DYm50_1j_nlo_cuep5m1": {
+        "cross_section" : 9.007e+02,
+        "Source of cross section" : "fragment (20000 events)",
+        "file_path" : "/eos/home-c/choij/Samples/DYm50_1j_nlo_cuep5m1"
+    },
+	"DYm50_2j_nlo_cuep5m1": {
+        "cross_section" : 3.348e+02,
+        "Source of cross section" : "fragment (20000 events)",
+        "file_path" : "/eos/home-c/choij/Samples/DYm50_2j_nlo_cuep5m1"
+    },
+	"DYm50_012j_nlo_cuep5m1": {
+        "cross_section" : 5.893e+03,
+        "Source of cross section" : "fragment (20000 events)",
+        "file_path" : "/eos/home-c/choij/Samples/DYm50_012j_nlo_cuep5m1"
+    }
 }

@@ -503,5 +503,25 @@ info = {
 		"file_path" : "/eos/home-c/choij/Samples/DYm50_incl_012j_ewparams_cp5/RunIIFall17LHEGS/201107_024335/000*/*.root",
 		"DAS" : "",
 		"plot_group" : "dy_nlo"
-	}
+	},
+	"DYm50_0j_nlo_cuep5m1": {
+		"file_path": "/eos/home-c/choij/Samples/DYm50_0j_nlo_cuep5m1/*.root",
+		"DAS" : "",
+		"plot_group" : "dy_nlo_jetbinned"
+	},
+	"DYm50_1j_nlo_cuep5m1": {
+        "file_path": "/eos/home-c/choij/Samples/DYm50_1j_nlo_cuep5m1/*.root",
+        "DAS" : "",
+        "plot_group" : "dy_nlo_jetbinned"
+    },
+	"DYm50_2j_nlo_cuep5m1": {
+        "file_path": "/eos/home-c/choij/Samples/DYm50_2j_nlo_cuep5m1/*.root",
+        "DAS" : "",
+        "plot_group" : "dy_nlo_jetbinned"
+    },
+	"DYm50_012j_nlo_cuep5m1": {
+        "file_path": "/eos/home-c/choij/Samples/DYm50_012j_nlo_cuep5m1/*.root",
+        "DAS" : "",
+        "plot_group" : "dy_nlo_jetbinned"
+    }
 }
