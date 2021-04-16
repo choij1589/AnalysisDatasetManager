@@ -285,7 +285,85 @@ info = {
             "SetMaximum" : 150000000
         }
     },
-   "MET": {  
+    "dRl1l2": {
+        "Initialize": {
+            "type": "TH1D",
+            "nbins": 100,
+            "xmin": 0,
+            "xmax": 8
+        },
+        "Attributes": {
+            "GetXaxis().SetTitle:": "#Delta R(l1l2)",
+            "GetYaxis().SetTitle:": "Events",
+            "GetYaxis().SetTitleOffset": 1.2,
+        }
+    },
+    "dRj1l1": {
+        "Initialize": {
+            "type": "TH1D",
+            "nbins": 100,
+            "xmin": 0,
+            "xmax": 8
+        },
+        "Attributes": {
+            "GetXaxis().SetTitle:": "#Delta R(j1l1)",
+            "GetYaxis().SetTitle:": "Events",
+            "GetYaxis().SetTitleOffset": 1.2,
+        }
+    },
+    "dRj1l2": {
+        "Initialize": {
+            "type": "TH1D",
+            "nbins": 100,
+            "xmin": 0,
+            "xmax": 8
+        },
+        "Attributes": {
+            "GetXaxis().SetTitle:": "#Delta R(j1l2)",
+            "GetYaxis().SetTitle:": "Events",
+            "GetYaxis().SetTitleOffset": 1.2,
+        }
+    },
+    "dRj2l1": {
+        "Initialize": {
+            "type": "TH1D",
+            "nbins": 100,
+            "xmin": 0,
+            "xmax": 8
+        },
+        "Attributes": {
+            "GetXaxis().SetTitle:": "#Delta R(j2l1)",
+            "GetYaxis().SetTitle:": "Events",
+            "GetYaxis().SetTitleOffset": 1.2,
+        }
+    },
+    "dRj2l2": {
+        "Initialize": {
+            "type": "TH1D",
+            "nbins": 100,
+            "xmin": 0,
+            "xmax": 8
+        },
+        "Attributes": {
+            "GetXaxis().SetTitle:": "#Delta R(j2l2)",
+            "GetYaxis().SetTitle:": "Events",
+            "GetYaxis().SetTitleOffset": 1.2,
+        }
+    },
+    "dRj1j2": {
+        "Initialize": {
+            "type": "TH1D",
+            "nbins": 100,
+            "xmin": 0,
+            "xmax": 8
+        },
+        "Attributes": {
+            "GetXaxis().SetTitle:": "#Delta R(j1j2)",
+            "GetYaxis().SetTitle:": "Events",
+            "GetYaxis().SetTitleOffset": 1.2,
+        }
+    },
+    "MET": {  
         "Initialize": {  
             "type": "TH1D",
             "nbins": 100,
