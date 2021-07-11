@@ -523,5 +523,10 @@ info = {
         "file_path": "/eos/home-c/choij/Samples/DYm50_012j_nlo_cuep5m1/*.root",
         "DAS" : "",
         "plot_group" : "dy_nlo_jetbinned"
+    },
+    "DYJets_m100to200_nlo_cp5": {
+        "file_path": "",
+        "DAS": "/DYJetsToLL_M-100to200_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv7*/NANOAODSIM",
+        "plot_group": "dy_nlo_jetbinned"
     }
 }
