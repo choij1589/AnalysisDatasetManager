@@ -527,6 +527,51 @@ info = {
     "DYJets_m100to200_nlo_cp5": {
         "file_path": "",
         "DAS": "/DYJetsToLL_M-100to200_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv7*/NANOAODSIM",
-        "plot_group": "dy_nlo_jetbinned"
+        "plot_group": "dy_nlo"
+    }
+    "DYJets_m200to400_nlo_cp5": {
+        "file_path": "",
+        "DAS": "/DYJetsToLL_M-200to400_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv7*/NANOAODSIM",
+        "plot_group": "dy_nlo"
+    }
+    "DYJets_m400to500_nlo_cp5": {
+        "file_path": "",
+        "DAS": "/DYJetsToLL_M-400to500_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv7*/NANOAODSIM",
+        "plot_group": "dy_nlo"
+    }
+    "DYJets_m500to700_nlo_cp5": {
+        "file_path": "",
+        "DAS": "/DYJetsToLL_M-500to700_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv7*/NANOAODSIM",
+        "plot_group": "dy_nlo"
+    }
+    "DYJets_m700to800_nlo_cp5": {
+        "file_path": "",
+        "DAS": "/DYJetsToLL_M-700to800_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv7*/NANOAODSIM",
+        "plot_group": "dy_nlo"
+    }
+    "DYJets_m800to1000_nlo_cp5": {
+        "file_path": "",
+        "DAS": "/DYJetsToLL_M-800to1000_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv7*/NANOAODSIM",
+        "plot_group": "dy_nlo"
+    }
+    "DYJets_m1000to1500_nlo_cp5": {
+        "file_path": "",
+        "DAS": "/DYJetsToLL_M-1000to1500_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv7*/NANOAODSIM",
+        "plot_group": "dy_nlo"
+    }
+    "DYJets_m1500to2000_nlo_cp5": {
+        "file_path": "",
+        "DAS": "/DYJetsToLL_M-1500to2000_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv7*/NANOAODSIM",
+        "plot_group": "dy_nlo"
+    }
+    "DYJets_m2000to3000_nlo_cp5": {
+        "file_path": "",
+        "DAS": "/DYJetsToLL_M-2000to3000_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv7*/NANOAODSIM",
+        "plot_group": "dy_nlo"
+    }
+    "DYJets_m3000toInf_nlo_cp5": {
+        "file_path": "",
+        "DAS": "/DYJetsToLL_M-3000toInf_TuneCP5_13TeV-amcatnloFXFX-pythia8/*NanoAODv7*/NANOAODSIM",
+        "plot_group": "dy_nlo"
     }
 }
